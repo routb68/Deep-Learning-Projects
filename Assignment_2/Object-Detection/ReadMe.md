@@ -1,7 +1,5 @@
 <h2>Object Detection using YOLOv3</h2>
 
-[Link to the wandb.ai report](https://wandb.ai/saish/Deep-Learning-CNN/reports/CS6910-Assignment-2---Vmlldzo2MDQ4NDA?accessToken=0d2a802xore8clx738gb2wuytbi54q9lyh6g4rlwxpt4bvs3d57qo3gc7uzisgzs)
-
 **Usage**
 
 ```
